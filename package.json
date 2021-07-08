@@ -1,0 +1,16 @@
+{
+  "name": "dojo-vanilla-component",
+  "version": "1.0.0",
+  "description": "Vanilla Component Dojo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bff/application.js"
+  },
+  "author": "",
+  "license": "ISC",    
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mustache": "^4.2.0"
+  }
+}
