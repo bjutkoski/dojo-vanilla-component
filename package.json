@@ -4,7 +4,7 @@
   "description": "Vanilla Component Dojo",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bff/application.js"
+    "start": "node ./src/bff/application.js"
   },
   "author": "",
   "license": "ISC",    
